@@ -2,6 +2,15 @@
 
 Seçilecek 4 çeşit malzemeye göre burger oluşturmaya imkan veren demo projedir. Proje, mobil cihazlar için responsive özelliğe sahiptir.
 
+## Projenin Çalıştırılması
+
+```
+cd app
+npm install
+npm start
+
+```
+
 ## Projenin Ekran Görüntüleri
 
 ![Ana ekran](/public/img/main.PNG)
