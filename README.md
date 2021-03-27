@@ -6,9 +6,9 @@ Seçilecek 4 çeşit malzemeye göre burger oluşturmaya imkan veren demo projed
 
 ![Ana ekran](/public/img/main.png)
 
-![Sipariş ekranı](/public/img/order.png)
+![Sipariş ekran](/public/img/order.png)
 
-![Mobil ekranı](/public/img/mobile.png)
+![Mobil ekran](/public/img/mobile.png)
 
 ## Kaynak
 
